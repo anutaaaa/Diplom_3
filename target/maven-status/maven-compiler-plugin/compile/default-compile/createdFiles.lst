@@ -1,0 +1,10 @@
+PageObject\RegistrationPage.class
+User\RandomHelper.class
+User\WebDriverHelper.class
+User\Constants.class
+User\UserCredentials.class
+PageObject\UserProfilePage.class
+User\UserHelper.class
+PageObject\MainPage.class
+User\User.class
+PageObject\PersonalAccountPage.class
